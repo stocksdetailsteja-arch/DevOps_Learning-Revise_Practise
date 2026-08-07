@@ -3,3 +3,8 @@ I am revising the last week concepts again for better observation and grasp the 
 
 Now, the time is 10:20 AM, i am making some changes in this file.
 This is another change at 11:12 AM
+
+DATE:07-08-2026  TOPIC: Bash_Scripting
+--------------------------------------
+* Today i have to complete bashscripting, will see how much i can complete on this topic.
+* Time: 7:40 AM
