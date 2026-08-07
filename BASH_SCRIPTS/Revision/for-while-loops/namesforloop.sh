@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for LEARNEDTOPICS in LINUX GIT BASH_SCRIPT
+do 
+echo $LEARNEDTOPICS
+done
